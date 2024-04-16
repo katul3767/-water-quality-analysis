@@ -1,4 +1,4 @@
-# -water-quality-analysis
+# Water-quality-analysis
  water quality data collected from multiple sites
 This project aims to analyze water quality data collected from multiple sites over time. It involves:
 
