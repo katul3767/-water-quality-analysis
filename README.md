@@ -8,3 +8,4 @@ Performing spatial analysis to compare water quality parameters across different
 Utilizing statistical analysis to understand relationships between parameters.
 Visualizing the data through various plots to provide insights into water quality variations.
 
+![image](https://github.com/katul3767/-water-quality-analysis/assets/83675858/e09cace1-2a7e-4dc5-9a60-5d226f808140)
